@@ -6,7 +6,7 @@
  * the build.gradle file in TeamCode.
  *
  * This file contains the necessary content of the 'build.gradle' files for robot controller
- * applications built using the FTC SDK. Each individual 'build.gradle' in those applications
+ * applications buit using the FTC SDK. Each individual 'build.gradle' in those applications
  * can simply contain the one line:
  *
  *      apply from: '../build.common.gradle'
